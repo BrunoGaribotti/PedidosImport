@@ -10,7 +10,7 @@ using Negocio;
 using System.Threading;
 using System.IO;
 
-namespace Direct_Sale___Importacion_de_Pedidos
+namespace PedidosImport___Importacion_de_Pedidos
 {
     public partial class FrmMain : Form
     {

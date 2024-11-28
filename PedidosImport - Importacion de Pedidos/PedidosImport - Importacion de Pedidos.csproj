@@ -8,8 +8,8 @@
     <ProjectGuid>{73275E1E-1E20-4443-95E6-66CB3712AA70}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Direct_Sale___Importacion_de_Pedidos</RootNamespace>
-    <AssemblyName>Direct Sale - Importacion de Pedidos</AssemblyName>
+    <RootNamespace>PedidosImport___Importacion_de_Pedidos</RootNamespace>
+    <AssemblyName>PedidosImport - Importacion de Pedidos</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <FileUpgradeFlags>
